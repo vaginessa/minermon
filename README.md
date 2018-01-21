@@ -1,8 +1,9 @@
 # minermon 0.1, Jan 2018
 
 This tool simply shows the most important information about your GPU so you can see
-if everything is fine. Every miner faces the situation when cards goes offline or GPU errors occurs. 
+if everything is fine. 
 
+Every miner faces the situation when cards goes offline or GPU errors occurs. 
 It obviously leads to the lose of performance. Most of you are using ugly .bat's to detect these moments,
 while minermon uses native Nvidia API to check the status of all GPUs that presents in your system. 
 When something goes wrong it sends a command to safely reboot your PC. 
