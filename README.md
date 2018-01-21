@@ -1,4 +1,4 @@
-# minermon 0.1, Jan 2018
+# minermon 0.1
 
 This tool simply shows the most important information about your GPU so you can see
 if everything is fine. 
